@@ -1,0 +1,1 @@
+make: `/Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/build/intermediates/ndkBuild/debug/obj/local/x86/libhidapi.so' is up to date.

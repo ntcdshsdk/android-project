@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:4:1-76:12
+INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:4:1-76:12
+INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:4:1-76:12
+INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:4:1-76:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha02] /Users/dscao/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha02.aar/f9a90a693aadf466580bd9025d4ab447/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha04] /Users/dscao/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/5747d7478b038b94608c4bf3eb056cfb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/09c1bca3dc81b9accfd3b7c9d14415db/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dscao/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/0bfa7e030d380d9e6b49140de393efb8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/c7b75a0a6d7cf754d8acfe87bb00d23f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/ea89672c0dac4d6a21b36b01d787b11b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/e27371c1d5d7f3e7ba813b259185fd56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/321ee2b75084b1c65a3faa6580e5d7a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a9ee28704eeda3b0d3ea11a3a23ee877/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha04] /Users/dscao/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/dee99384227b8982ebe431319dc836e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0ddbfc32294cd6492b2a298a1b7060e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7bf65a63acde919f3b7f0f58d77f0394/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/5ff5591092adc2be3ac12a845fa702b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/d10ad10bafc8df9fcf03ad9c982bb602/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/e0340ed1afc91a65ec9d074ba07a3cfb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/dscao/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/eebe3f2e96ae3736ae7d01154bf7f70b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/dscao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/69a57f778ac26fb89d6aa3bcf733fd21/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/9ebf638dffd74d893856805d96383968/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] /Users/dscao/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha02.aar/a0e2be8021ed5d3735094bf6336518a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-bundle:1.0.0-alpha01] /Users/dscao/.gradle/caches/transforms-1/files-1.1/savedstate-bundle-1.0.0-alpha01.aar/681bd5af6b5690715f9c9cf86b2131fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0db2d2bbdf8a54dbd171111e37e36315/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1aad3acefa40f7591941626d1f29e634/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/f643dfa40031e9112c86f9dc5179f024/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f980e442225cb792f1c4a9a986472b9f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/9f55950c6ccf44e8f13e41b0011bce03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/d56ca4b4d5420d38bd50841baf86078a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/5b5715866b4fe5b7dddb8ced39dc4848/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/59b6f35d49f5ad515954c8fe12987cb1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:4:1-76:12
+INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:4:1-76:12
+INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:4:1-76:12
+	package
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:8:5-30
+		INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:4:11-69
+	android:versionCode
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:7:5-28
+		INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:6:5-35
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:10:22-65
+uses-feature#0x00020000
+ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:17:9-52
+uses-feature#android.hardware.gamepad
+ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:22:9-48
+uses-feature#android.hardware.type.pc
+ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:27:9-48
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:31:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:33:5-66
+	android:name
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:33:22-63
+application
+ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:46:5-74:19
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/dscao/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/eebe3f2e96ae3736ae7d01154bf7f70b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/dscao/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/eebe3f2e96ae3736ae7d01154bf7f70b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/dscao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/69a57f778ac26fb89d6aa3bcf733fd21/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/dscao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/69a57f778ac26fb89d6aa3bcf733fd21/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha04] /Users/dscao/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/eebe3f2e96ae3736ae7d01154bf7f70b/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:50:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:48:9-43
+	android:icon
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:49:9-43
+	android:allowBackup
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:47:9-35
+	android:theme
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:51:9-67
+activity#org.libsdl.app.SDLActivity
+ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:57:9-73:20
+	android:label
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:60:13-45
+	android:configChanges
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:59:13-83
+	android:name
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:58:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:61:13-64:29
+action#android.intent.action.MAIN
+ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:62:17-69
+	android:name
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:62:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml:63:27-74
+uses-sdk
+INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha02] /Users/dscao/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha02.aar/f9a90a693aadf466580bd9025d4ab447/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha02] /Users/dscao/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha02.aar/f9a90a693aadf466580bd9025d4ab447/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha04] /Users/dscao/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/5747d7478b038b94608c4bf3eb056cfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha04] /Users/dscao/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/5747d7478b038b94608c4bf3eb056cfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/09c1bca3dc81b9accfd3b7c9d14415db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/09c1bca3dc81b9accfd3b7c9d14415db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dscao/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/0bfa7e030d380d9e6b49140de393efb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dscao/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/0bfa7e030d380d9e6b49140de393efb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/c7b75a0a6d7cf754d8acfe87bb00d23f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/c7b75a0a6d7cf754d8acfe87bb00d23f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/ea89672c0dac4d6a21b36b01d787b11b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/ea89672c0dac4d6a21b36b01d787b11b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/e27371c1d5d7f3e7ba813b259185fd56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/e27371c1d5d7f3e7ba813b259185fd56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/321ee2b75084b1c65a3faa6580e5d7a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/321ee2b75084b1c65a3faa6580e5d7a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a9ee28704eeda3b0d3ea11a3a23ee877/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a9ee28704eeda3b0d3ea11a3a23ee877/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha04] /Users/dscao/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/dee99384227b8982ebe431319dc836e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha04] /Users/dscao/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/dee99384227b8982ebe431319dc836e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0ddbfc32294cd6492b2a298a1b7060e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0ddbfc32294cd6492b2a298a1b7060e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7bf65a63acde919f3b7f0f58d77f0394/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7bf65a63acde919f3b7f0f58d77f0394/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/5ff5591092adc2be3ac12a845fa702b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/5ff5591092adc2be3ac12a845fa702b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/d10ad10bafc8df9fcf03ad9c982bb602/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/d10ad10bafc8df9fcf03ad9c982bb602/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/e0340ed1afc91a65ec9d074ba07a3cfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/e0340ed1afc91a65ec9d074ba07a3cfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/dscao/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/eebe3f2e96ae3736ae7d01154bf7f70b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/dscao/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/eebe3f2e96ae3736ae7d01154bf7f70b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/dscao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/69a57f778ac26fb89d6aa3bcf733fd21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/dscao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/69a57f778ac26fb89d6aa3bcf733fd21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/9ebf638dffd74d893856805d96383968/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/9ebf638dffd74d893856805d96383968/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] /Users/dscao/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha02.aar/a0e2be8021ed5d3735094bf6336518a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] /Users/dscao/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha02.aar/a0e2be8021ed5d3735094bf6336518a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-bundle:1.0.0-alpha01] /Users/dscao/.gradle/caches/transforms-1/files-1.1/savedstate-bundle-1.0.0-alpha01.aar/681bd5af6b5690715f9c9cf86b2131fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-bundle:1.0.0-alpha01] /Users/dscao/.gradle/caches/transforms-1/files-1.1/savedstate-bundle-1.0.0-alpha01.aar/681bd5af6b5690715f9c9cf86b2131fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0db2d2bbdf8a54dbd171111e37e36315/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0db2d2bbdf8a54dbd171111e37e36315/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1aad3acefa40f7591941626d1f29e634/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1aad3acefa40f7591941626d1f29e634/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/f643dfa40031e9112c86f9dc5179f024/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/f643dfa40031e9112c86f9dc5179f024/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f980e442225cb792f1c4a9a986472b9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f980e442225cb792f1c4a9a986472b9f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/9f55950c6ccf44e8f13e41b0011bce03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/9f55950c6ccf44e8f13e41b0011bce03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/d56ca4b4d5420d38bd50841baf86078a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/d56ca4b4d5420d38bd50841baf86078a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/5b5715866b4fe5b7dddb8ced39dc4848/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/5b5715866b4fe5b7dddb8ced39dc4848/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/59b6f35d49f5ad515954c8fe12987cb1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dscao/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/59b6f35d49f5ad515954c8fe12987cb1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dscao/Documents/Workspaces/AndroidPjs/SDL2/android-project/app/src/main/AndroidManifest.xml
